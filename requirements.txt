@@ -1,0 +1,17 @@
+EasyProcess
+entrypoint2
+jeepney
+MouseInfo
+mss
+Pillow
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+pyperclip
+PyRect
+pyscreenshot
+PyScreeze
+python-dotenv
+python3-xlib
+pyttsx3
+pytweening
